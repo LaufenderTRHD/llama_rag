@@ -1,0 +1,4 @@
+Mein Statement zum Abschlusskolloquium:
+
+Der erste Transferbericht zeigt, wie verschiedene Themengebiete aus dem Cloud-Umfeld, welches für die Big Data Architektur genutzt wird, auf konventionelle, nicht Cloud-native Anwendungen angewendet werden kann und dort zu Vorteilen und Nutzen führen kann. Ebenso können die unterrichteten Prinzipien dazu genutzt werden, um im Rahmen der Trans-formation auf Vor- und Nachteile gewisser Strukturen hinzuweisen und somit den Entschei-dungsprozess beschleunigen bzw. die Ergebnisse verbessern können.
+Auch der umgekehrte Weg von beruflichen Erfahrungen mit anderen Cloud-Anbietern oder Technologien in den Unterricht hinein hat sich als sehr positiv herausgestellt, da meine Mit-studenten und ich unser Wissen untereinander teilen konnten und auf die aufgekommenen Fragen oder Probleme eingehen konnten. 
