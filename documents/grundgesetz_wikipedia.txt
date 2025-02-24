@@ -1,0 +1,385 @@
+Grundgesetz für die Bundesrepublik Deutschland
+	
+Grundgesetz ist eine Weiterleitung auf diesen Artikel. Zu anderen Grundgesetzen siehe die Liste von Grundgesetzen.
+Basisdaten
+Titel:	Grundgesetz für die Bundesrepublik Deutschland
+Kurztitel:	Grundgesetz
+Abkürzung:	GG
+Art:	Bundesverfassung
+Geltungsbereich:	Bundesrepublik Deutschland
+Rechtsmaterie:	Verfassungsrecht
+Fundstellennachweis:	100-1
+Erlassen am:	23. Mai 1949 (BGBl. S. 1)
+Inkrafttreten am:	24. Mai 1949, 0:00 Uhr[1]
+Letzte Änderung durch:	Artikel 1 Gesetz vom 20. Dezember 2024
+(BGBl. I Nr. 439 vom 27. Dezember 2024)
+Inkrafttreten der
+letzten Änderung:	28. Dezember 2024
+(Artikel 2 G vom 20. Dezember 2024)
+GESTA:	B011
+Weblink:	Volltext des GG
+Bitte den Hinweis zur geltenden Gesetzesfassung beachten.
+
+Die ersten 19 Artikel des Grundgesetzes, die Grundrechte (Ursprungsfassung), am Jakob-Kaiser-Haus in Berlin
+
+Präambel des Grundgesetzes in der Fassung des Einigungsvertrages, 1990
+Das Grundgesetz für die Bundesrepublik Deutschland vom 23. Mai 1949 (kurz deutsches Grundgesetz; allgemein abgekürzt GG, seltener auch GrundG) ist die Verfassung[2] Deutschlands.
+
+Der von September 1948 bis Juni 1949 in Bonn tagende Parlamentarische Rat arbeitete das Grundgesetz im Auftrag der drei westlichen Besatzungsmächte aus und genehmigte es. Es wurde von allen deutschen Landtagen in den drei Westzonen mit Ausnahme des bayerischen angenommen. Eine Volksabstimmung gab es mithin nicht. Dies und der Verzicht auf die Bezeichnung als „Verfassung“ sollte den provisorischen Charakter des Grundgesetzes und der mit ihm gegründeten Bundesrepublik Deutschland betonen. Der Parlamentarische Rat war der Auffassung, dass das Deutsche Reich fortbestehe und eine neue Verfassung für den Gesamtstaat daher nur von allen Deutschen oder ihren gewählten Vertretern beschlossen werden könne. Weil die Deutschen in der Sowjetischen Besatzungszone (SBZ) und im Saarland aber gehindert waren, mitzuwirken, sollte für eine Übergangszeit ein „Grundgesetz“ als „vorläufige Teilverfassung Westdeutschlands“ geschaffen werden: Die ursprüngliche Präambel hob den Willen des deutschen Volkes zur nationalen und staatlichen Einheit hervor.[3] Das Saarland wurde am 1. Januar 1957 Bestandteil der Bundesrepublik und kam damit in den Geltungsbereich des Grundgesetzes. Mit der Wiedervereinigung Deutschlands am 3. Oktober 1990 wurde es die Verfassung des gesamten Deutschen Volkes (→ Präambel).[4]
+
+Die Kriterien eines materiellen Verfassungsbegriffs erfüllt das Grundgesetz von Anfang an, indem es eine Grundentscheidung über die Form der politischen Existenz des Landes trifft: Demokratie, Republik, Sozialstaat, Bundesstaat sowie wesentliche Rechtsstaatsprinzipien. Neben diesen Grundentscheidungen regelt es die Staatsorganisation, sichert individuelle Freiheiten und errichtet eine objektive Wertordnung.[5]
+
+Besondere Bedeutung haben aufgrund der Erfahrungen aus dem nationalsozialistischen Unrechtsstaat die im Grundgesetz verankerten Grundrechte. Sie binden alle Staatsgewalt als unmittelbar geltendes Recht (Art. 1 Abs. 3). Durch ihre konstitutive Festlegung sind die Grundrechte also nicht nur bloße Staatszielbestimmungen; vielmehr bedarf es in der Regel keiner rechtsprechenden Instanz zu ihrer Wahrnehmung und die Gesetzgebung, vollziehende Gewalt und Rechtsprechung sind an sie gebunden. Daraus leitet sich der Grundsatz ab, dass die Grundrechte in erster Linie als Abwehrrechte des Bürgers gegen den Staat zu verstehen sind, während sie weiterhin auch eine objektive Wertordnung verkörpern, die als verfassungsrechtliche Grundentscheidung für alle Bereiche des Rechts gilt.[6] Die soziale und politische Struktur der staatlich verfassten Gesellschaft wird damit verfassungsrechtlich festgelegt.
+
+Das Bundesverfassungsgericht bewahrt als unabhängiges Verfassungsorgan die Funktion der Grundrechte, das politische und staatsorganisatorische System und entwickelt sie weiter. Das Grundgesetz für die Bundesrepublik Deutschland in seiner heutigen Form schreibt eine perpetuierte[7] und legitimierte[8] Staatsverfassung fest.[9] Sie kann nur durch Beschluss einer neuen Verfassung durch das Volk abgelöst werden (Art. 146).
+
+
+Inhaltsverzeichnis
+1	Etymologie
+2	Entstehungsgeschichte
+2.1	Zwischen Kriegsende und der Londoner Sechs-Mächte-Konferenz
+2.2	Londoner Sechs-Mächte-Konferenz
+2.3	Frankfurter Dokumente
+2.4	Koblenzer Beschlüsse
+2.5	Verfassungskonvent auf Herrenchiemsee
+2.6	Parlamentarischer Rat
+2.6.1	Arbeit des Rates
+2.6.2	Genehmigung und Ratifikation des Grundgesetzes
+3	Inhalt
+3.1	Allgemeines
+3.2	Grundrechte
+3.3	Staatsorganisationsrecht
+3.3.1	Grundsätze
+3.3.2	Kompetenzen der Bundesorgane
+3.3.3	Verbandszuständigkeit des Bundes
+3.4	Wesentliche Unterschiede zur Weimarer Verfassung
+3.5	Entwicklung des Grundgesetzes seit 1949
+3.5.1	Überblick
+3.5.2	Änderungsgesetze
+3.6	Geltungsdauer
+3.7	Räumlicher Geltungsbereich
+4	Bedeutung und Kritik
+5	Beteiligte an der Formulierung
+6	Siehe auch
+7	Literatur
+8	Ausstellungen
+9	Weblinks
+10	Anmerkungen
+Etymologie
+Das deutsche Wort Grundgesetz kam zuerst im 17. Jahrhundert auf und gilt unter Sprachwissenschaftlern als Lehnübersetzung oder Eindeutschung des in der lateinischen Rechtssprache geprägten Begriffes lex fundamentalis; „Grundgesetz“ meint daher das „[staats-]grundlegende Gesetz“.[10][11] Alle sonstigen Gesetze werden auch als einfachgesetzlich bezeichnet. Sie haben keinen Verfassungsrang.
+
+Entstehungsgeschichte
+Zwischen Kriegsende und der Londoner Sechs-Mächte-Konferenz
+Schon vor der Londoner Sechsmächtekonferenz gab es von Seiten der Alliierten Aufforderungen an die in den Besatzungszonen politisch aktiven Deutschen, sich Gedanken über einen neuen Staatsaufbau Deutschlands zu machen. So forderte der britische Militärgouverneur, Sir Brian Robertson, am 12. Juni 1947 den in seiner Besatzungszone eingerichteten Zonenbeirat auf, sich zur Struktur eines deutschen Nachkriegsstaates zu äußern. Während in dieser Besatzungszone die Absicht der SPD, eine starke Zentralinstanz zu schaffen, noch relativ aussichtsreich erschien, überwog im Süden Deutschlands mit seinen starken föderalistischen Traditionen in Bayern, Württemberg und Baden die Ansicht, nach dem nationalsozialistischen Einheitsstaat lieber wieder die in Deutschland traditionelle Gliederung in Länder mit Eigenstaatlichkeit und Selbständigkeit einzuführen. Der Begriff „Bundesrepublik Deutschland“ wurde von den französischen Besatzungsbehörden in Württemberg-Hohenzollern erstmals im Mai 1947 verwendet.
+
+Während die Landesvertreter relativ stark in dem verfassungsrechtlichen Diskurs mitwirken konnten, blieben die Führungen der Parteien weithin ohne Einfluss, zumal sie sich noch nicht deutschlandweit konstituieren konnten und damit als gesamtstaatsbezogene Interessenverbände ausschieden. Dennoch ergab sich bereits in den Jahren 1947 und 1948 eine deutliche Differenz zwischen der Union, die im April 1948 ihre „Grundsätze für eine Deutsche Bundesverfassung“ mit stark föderalistischer Prägung vorstellten, und der SPD, die schon 1947 mit ihren Nürnberger Richtlinien jeglichen Separatismus verurteilte und die „Reichseinheit“ unbedingt bewahren wollte.[12]
+
+Londoner Sechs-Mächte-Konferenz
+→ Hauptartikel: Londoner Sechsmächtekonferenz
+Die im Februar und März sowie von April bis Juni 1948 in London stattfindende Konferenz zwischen den drei westlichen Besatzungsmächten Frankreich, dem Vereinigten Königreich und den Vereinigten Staaten von Amerika sowie drei direkten Nachbarn Deutschlands, den Niederlanden, Belgien und Luxemburg, beschäftigte sich intensiv mit der politischen Neuordnung der Besatzungsgebiete in Westdeutschland. Wegen des beginnenden Kalten Krieges tagten die Hauptsiegermächte erstmals ohne die Sowjetunion.[13]
+
+Die drei Besatzungsmächte verfolgten zunächst recht unterschiedliche Interessen: Während das zentral organisierte Vereinigte Königreich keine Präferenzen bezüglich der Frage „Zentralstaat oder Föderalismus?“ hatte, sondern vielmehr die möglichst problemlose Vereinigung der Trizone mit der sowjetisch besetzten Zone im Auge hatte, plädierten die Vereinigten Staaten für einen nur aus der Trizone bestehenden deutschen Föderalstaat. Für die Franzosen wiederum war die möglichst deutliche Schwächung eines jeden deutschen Staates Hauptziel: Dementsprechend traten sie für eine möglichst lange Besatzungszeit ohne Staatsgründung und für die Einbeziehung des Saarlandes in den französischen Staatsverband ein. Da sie sich mit der Position der Verhinderung einer Staatsgründung jedoch nicht durchsetzen konnten, befürworteten die Franzosen einen föderalen Staatsaufbau mit internationaler Kontrolle der Montanindustrie.
+
+Schließlich enthielt das Schlusskommuniqué der Konferenz die Aufforderung an die Deutschen in den westlichen Ländern, einen föderalen Staat aufzubauen. Allerdings sollte dieser föderale westdeutsche Staat kein Hindernis für eine spätere Einigung mit der Sowjetunion über die deutsche Frage darstellen.
+
+Die Bestätigung dieses Beschlusses durch Frankreich erfolgte erst nach massivem Druck der beiden anderen Alliierten und einer äußerst knappen Abstimmung (297:289) in der Nationalversammlung.
+
+Frankfurter Dokumente
+→ Hauptartikel: Frankfurter Dokumente
+Nachdem die Londoner Beschlüsse in Deutschland eher negativ aufgenommen worden waren, sollten die den Ministerpräsidenten am 1. Juli 1948 überreichten Frankfurter Dokumente in einem für Deutschland freundlicheren Ton gehalten werden. Neben der Ankündigung eines Besatzungsstatutes enthielt das wichtigste der drei Dokumente, das Dokument Nr. I, die Ermächtigung an die Ministerpräsidenten, eine Versammlung einzuberufen, die eine demokratische Verfassung mit einer Grundrechtsgarantie und mit einem bundesstaatlichen Aufbau ausarbeiten sollte. Diese war anschließend von den Militärgouverneuren zu genehmigen. Die Militärgouverneure wollten dabei den Eindruck vermeiden, den Deutschen Verfassungsgrundsätze zu diktieren; sie unterließen es auch, den Ministerpräsidenten eine Frist zur Beantwortung der Dokumente zu setzen. Einzig der späteste Termin für den Zusammentritt der verfassunggebenden Versammlung wurde festgesetzt: der 1. September 1948.
+
+Mit Dokument Nr. II wurden die Ministerpräsidenten aufgefordert, die Ländergrenzen zu überprüfen und je nach Ergebnis Vorschläge zu ihrer Änderung zu machen; Dokument Nr. III enthielt die Punkte, in denen die Militärgouverneure weiterhin bestimmen wollten. Sie sollten in ein Besatzungsstatut einfließen, das gleichzeitig mit dem Verfassungsgesetz in Geltung gesetzt werden sollte.[14]
+
+Koblenzer Beschlüsse
+→ Hauptartikel: Rittersturz-Konferenz
+
+Teilnehmer der Rittersturz-Konferenz von links: Lorenz Bock, Viktor Renner, Franz Suchan, Hermann Lüdemann, Rudolf Katz, Hinrich Wilhelm Kopf, Justus Danckwerts
+Die Tage nach der Übergabe der Frankfurter Dokumente waren von großer Betriebsamkeit in den Landesregierungen und Landtagen geprägt. Vom 8. Juli bis zum 10. Juli 1948 trafen sich die westdeutschen Regierungschefs auf dem Rittersturz in Koblenz in der französischen Besatzungszone. Die Einladung der ostdeutschen Ministerpräsidenten war gar nicht mehr in Betracht gezogen worden. Die Ministerpräsidenten waren sich einig, dass für sie die Gründung eines Weststaats nicht in Frage kam, der die Spaltung Deutschlands zementieren würde. Auch eine verfassunggebende Versammlung lehnten sie aus diesem Grund ab. Carlo Schmid (SPD), der stellvertretende Ministerpräsident Württemberg-Hohenzollerns, plädierte dafür, es bei einem bloßen Provisorium zu belassen, bis es möglich sein werde, „gemeinsam den Staat aller Deutschen zu errichten“. Um diesen Provisoriumscharakter zu betonen, wollten die Ministerpräsidenten auch nicht von einer Verfassung sprechen, sondern nur von einem Grundgesetz, ein Begriff, den der Hamburger Erste Bürgermeister Max Brauer bereits zuvor vorgeschlagen hatte.[15]
+
+In ihren „Koblenzer Beschlüssen“ erklärten die Ministerpräsidenten die Annahme der Frankfurter Dokumente. Gleichzeitig wandten sie sich gegen das Besatzungsstatut, es wurde in seiner vorgeschlagenen Form abgelehnt. Die Militärgouverneure reagierten verärgert auf die Koblenzer Beschlüsse, da sie ihrer Meinung nach in anmaßender Weise die Londoner und Frankfurter Dokumente außer Kraft zu setzen versuchten. Dabei hatte der französische Militärgouverneur Pierre Kœnig deutsche Politiker unter der Hand zum Widerspruch ermuntert.[16] Insbesondere der US-amerikanische Militärgouverneur Lucius D. Clay machte die Ministerpräsidenten dafür verantwortlich, dass nun die Franzosen wieder eine für die Deutschen nachteilige Revision der Londoner Beschlüsse fordern würden. In einer weiteren Sitzung am 20. Juli 1948 wurden den Ministerpräsidenten die negativen Folgen eines Beharrens auf den Koblenzer Beschlüssen deutlich gemacht. Obwohl eine Verfassung und kein vorläufiges Grundgesetz ausgearbeitet werden sollte, stimmten die Ministerpräsidenten schließlich den Forderungen der Militärgouverneure zu.
+
+Auf einer Ministerpräsidentenkonferenz auf Schloss Niederwald hielten die Länderchefs trotz ihres Eingehens auf die Londoner Beschlüsse an den Koblenzer Beschlüssen als Empfehlung und an der Bezeichnung „Grundgesetz“ fest, um dessen provisorischen Charakter zu betonen. Weiter wurde nicht eine „verfassungsgebende Versammlung“, sondern ein Parlamentarischer Rat, gewählt durch die (west-)deutschen Landtage und eine Ratifizierung des Grundgesetzes durch die Landtage und nicht – wie von den Militärgouverneuren gewollt – durch Volksabstimmung beschlossen.[17] Grund dafür war, dass die deutsche Souveränität noch nicht ausreichend wiederhergestellt und ebenso wenig die Voraussetzungen für eine gesamtdeutsche Verfassung gegeben waren. Dies akzeptierten die Militärgouverneure.
+
+Verfassungskonvent auf Herrenchiemsee
+→ Hauptartikel: Verfassungskonvent auf Herrenchiemsee
+Der Verfassungskonvent auf Herrenchiemsee fand vom 10. bis zum 23. August 1948 statt. Er sollte mehr aus Verwaltungsbeamten denn aus Politikern bestehen. Parteipolitische Erwägungen sollten ganz außen vor bleiben. Die Landesparlamente der amerikanischen und der französischen Besatzungszone hielten sich jedoch nicht an diese Empfehlungen. Obwohl nicht klar war, ob die Mitglieder des Konventes einen kompletten Entwurf eines Grundgesetzes oder nur einen Überblick liefern sollten, kristallisierten sich in der Diskussion wichtige Punkte heraus, von denen einige schließlich im Grundgesetz verwirklicht wurden. Dazu zählen eine starke Bundesregierung, die Einführung eines neutralen und im Vergleich zur Weimarer Verfassung wesentlich entmachteten Staatsoberhauptes, der weitgehende Ausschluss von Volksabstimmungen und eine Vorform der späteren Ewigkeitsklausel. Die Ausgestaltung der Ländervertretung war bereits umstritten; sie sollte es über die gesamte Zeit der Beratungen des Parlamentarischen Rates bleiben.
+
+Die richtungsweisenden Vorarbeiten des Konventes hatten erheblichen Einfluss auf den Grundgesetzentwurf des Parlamentarischen Rates. Gleichzeitig war der Herrenchiemseer Konvent die letzte große Einflussmöglichkeit der Ministerpräsidenten auf das Grundgesetz.
+
+Parlamentarischer Rat
+→ Hauptartikel: Parlamentarischer Rat
+Arbeit des Rates
+
+Beurkundungsseite der Verfassungsurkunde
+Auf der Grundlage der binnen zwei Wochen durch den Verfassungskonvent entwickelten Grundsätze eines föderalen und demokratischen Rechtsstaats arbeitete der Parlamentarische Rat die neue Verfassung aus. Grundsatz der Mitglieder des Parlamentarischen Rates war die sogenannte „Verfassung in Kurzform“, nämlich, dass Bonn nicht Weimar sei und die Verfassung einen zeitlich und räumlich provisorischen Charakter erhalten sollte.[18] Als Verfassung für Deutschland sollte erst eine auch in ganz Deutschland auf demokratischem Weg entstandene und legitimierte Konstitution bezeichnet werden. Die Wiedervereinigung wurde in der Präambel des Grundgesetzes als Verfassungsziel festgeschrieben (→ Wiedervereinigungsgebot) und im (inzwischen aufgehobenen) Artikel 23 geregelt.[19] Die für den Fall der Wiedervereinigung in Frage gekommene Abstimmung über eine Verfassung gemäß Art. 146 fand jedoch angesichts des „Beitritts der Deutschen Demokratischen Republik zum Geltungsbereich des Grundgesetzes der Bundesrepublik Deutschland“[20] nicht statt. In der Begründung zur Nichtannahme einer (diese Frage nur am Rande betreffenden) Verfassungsbeschwerde legte der Zweite Senat des Bundesverfassungsgerichts am 12. Oktober 1993 dar: „Auch Art. 146 GG begründet kein verfassungsbeschwerdefähiges Individualrecht (Art. 93 Abs. 1 Nr. 4a GG).“[21]
+
+Die Mitglieder dieses Gremiums (insgesamt 65) wurden häufig auch als „Väter des Grundgesetzes“ bezeichnet; erst später erinnerte man sich an die Beteiligung der vier „Mütter des Grundgesetzes“ Elisabeth Selbert, Friederike Nadig, Helene Wessel und Helene Weber. Elisabeth Selbert hatte dabei gegen heftige Widerstände die Gleichberechtigung von Männern und Frauen (Art. 3 Abs. 2) durchgesetzt.
+
+Neuere Forschungen zeigen, dass auf diesem Gebiet der Frauenpolitik Verbindungen zwischen Politikerinnen der Westzonen und der Sowjetischen Besatzungszone (SBZ) eine wichtige Rolle gespielt hatten. In der SBZ waren es die bereits länger arbeitende Verfassungskommission des Demokratischen Frauenbundes Deutschlands (DFD) sowie weitere Protagonistinnen des DFD, die bedeutenden Einfluss bei der Schaffung des Gleichberechtigungsartikels 7 der DDR-Verfassung nahmen.[22] Ihre Formulierung inspirierte sogar – vermittelt über persönliche Kontakte zwischen Käthe Kern und Herta Gotthelf und schließlich Elisabeth Selbert – die Formulierung von Artikel 3 Absatz 2 im Grundgesetz: „Männer und Frauen sind gleichberechtigt.“[23]
+
+Die Mitglieder des Parlamentarischen Rates wurden von den westdeutschen Landtagen entsprechend dem Bevölkerungsproporz und der Stärke der Landtagsfraktionen gewählt. Nordrhein-Westfalen entsandte 17, Bayern 13, Niedersachsen neun, Hessen sechs, die übrigen Länder zwischen fünf und einem Abgeordneten. Von den 65 Mitgliedern gehörten 27 der CDU oder CSU sowie 27 weitere der SPD an, die FDP entsandte fünf Mitglieder, die (nationalkonservative und föderalistisch ausgerichtete) Deutsche Partei, das (katholische) Zentrum und die (kommunistische) KPD je zwei Mitglieder. Das Patt zwischen den großen Parteien verhinderte, dass eine von ihnen dem Grundgesetz ihren Stempel aufdrückte, und zwang zur Einigung in den wesentlichen Fragen.[24] Dabei war für den Inhalt und die Annahme einzelner Abschnitte auch das jeweilige Abstimmungsverhalten der kleineren Fraktionen ausschlaggebend.
+
+Genehmigung und Ratifikation des Grundgesetzes
+Nach zum Teil heftigen Debatten über die Lehren, die aus dem Scheitern der Weimarer Republik, dem Dritten Reich und dem Zweiten Weltkrieg zu ziehen seien, wurde der Entwurf des Grundgesetzes am 8. Mai 1949 vom Parlamentarischen Rat, der seit September 1948 in Bonn tagte, mit 53 gegen 12 Stimmen angenommen. Die Gegenstimmen kamen von Abgeordneten der CSU, der Deutschen Partei, der Zentrumspartei und der KPD.[25] Als Datum wurde bewusst der Jahrestag der bedingungslosen Kapitulation der Wehrmacht gewählt, weshalb Adenauer die Abstimmung kurz vor Mitternacht forcierte.[26] Am 12. Mai 1949 wurde der Entwurf von den Militärgouverneuren der britischen, französischen und amerikanischen Besatzungszone genehmigt, allerdings mit einigen Vorbehalten.[27] Gemäß Art. 144 Abs. 1 bedurfte der Entwurf der Annahme durch die Volksvertretungen in zwei Dritteln der deutschen Länder, in denen es zunächst gelten sollte. Zwischen dem 18. und 21. Mai wurde er in den Länderparlamenten zur Abstimmung gestellt. Auf ein Verfassungsreferendum wurde bewusst verzichtet.[28] Zehn Länderparlamente nahmen das Grundgesetz an.[29]
+
+
+Mitteilung der Ablehnung durch Bayern
+Nur der Bayerische Landtag stimmte in einer Sitzung in der Nacht vom 19. auf den 20. Mai 1949 mit 101 zu 63 Stimmen bei neun Enthaltungen gegen das Grundgesetz (sieben der 180 Abgeordneten waren abwesend bzw. entschuldigt). Der Vorschlag zur Ablehnung stammte von der Staatsregierung.[30] Die CSU, die über eine Mehrheit im bayerischen Landtag verfügte, lehnte im Unterschied zur SPD und FDP das Grundgesetz ab. Sie fürchtete zu viel Einfluss des Bundes und forderte eine stärkere föderale Prägung, beispielsweise eine Gleichberechtigung des Bundesrates bei der Gesetzgebung. Die Verbindlichkeit des Grundgesetzes für den Freistaat Bayern, falls bundesweit zwei Drittel der Länder das Grundgesetz ratifizieren würden, wurde aber in einem gesonderten Beschluss mit 97 von 180 Stimmen bei 70 Enthaltungen und 6 Gegenstimmen akzeptiert.[31]
+
+
+Vollständige Urschrift des Grundgesetzes
+
+Verkündungsformel
+
+Veröffentlichung des Grundgesetzes auf Seite 1 der ersten Nummer des Bundesgesetzblattes
+Das Grundgesetz wurde am 23. Mai 1949 in einer feierlichen Sitzung des Parlamentarischen Rates durch den Präsidenten und die Vizepräsidenten ausgefertigt und verkündet (Art. 145 Abs. 1). Die Verfassungsurkunde wurde zunächst von 63 der 65 stimmberechtigten Mitglieder des Parlamentarischen Rates, also von allen außer den beiden ablehnenden kommunistischen Abgeordneten, unterzeichnet. Danach unterzeichneten die nicht stimmberechtigten West-Berliner Abgeordneten, die Ministerpräsidenten und Landtagspräsidenten der elf westdeutschen Länder und schließlich Otto Suhr und Ernst Reuter als Stadtverordnetenvorsteher bzw. Oberbürgermeister von Groß-Berlin.[32]
+
+
+Ratifikationsunterschriften der Ministerpräsidenten der deutschen Länder zur Annahme des Grundgesetzes
+„Heute, am 23. Mai 1949, beginnt ein neuer Abschnitt in der wechselvollen Geschichte unseres Volkes: Heute wird die Bundesrepublik Deutschland in die Geschichte eintreten. Wer die Jahre seit 1933 bewußt erlebt hat, der denkt bewegten Herzens daran, daß heute das neue Deutschland ersteht.“
+
+– Konrad Adenauer in einer Ansprache nach der feierlichen Unterzeichnung des Grundgesetzes[33]
+Es trat nach Art. 145 Abs. 2 mit Ablauf dieses Tages in Kraft; der Zeitpunkt wird teils als 23. Mai, 24:00 Uhr,[34] teils als 24. Mai, 0:00 Uhr bezeichnet.[35] Damit war die Bundesrepublik Deutschland gegründet. Dieses Ereignis ist in der Eingangsformel beurkundet.
+
+Das Grundgesetz wurde gemäß Art. 145 Abs. 3 in der Nummer 1 des Bundesgesetzblattes veröffentlicht.[36] Die Originalurkunde („Urschrift des Grundgesetzes“) wird im Bundestag aufbewahrt.[37] Das Grundgesetz galt auch in und für Berlin (West), allerdings nur insoweit nicht Maßnahmen der Besatzungsmächte seine Anwendung beschränkten. Deren Vorbehalt schloss aus, dass Bundesorgane unmittelbar Staatsgewalt über Berlin ausübten.
+
+Am 3. Oktober 2016 wurde die erste unterschriebene Fassung des Grundgesetzes mit allen Begleitakten über insgesamt ca. 30.000 Seiten, darunter Niederschriften der Diskussionen und Debatten des Parlamentarischen Rates, der Länder, aber auch der alliierten Mächte, als Mikrofilm im Zentralen Bergungsort der Bundesrepublik Deutschland, dem Barbarastollen, durch das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe eingelagert.[38] Es bedurfte mehrerer Anfragen nach dem Informationsfreiheitsgesetz des Bundes, bis ein Retrodigitalisat der vollständigen Urschrift des Grundgesetzes im Mai 2023 öffentlich zur Verfügung gestellt wurde.[39]
+
+Inhalt
+→ Hauptartikel: Liste der Artikel des Grundgesetzes
+Allgemeines
+Das Grundgesetz besteht aus der Präambel, den Normierungen der Grundrechte (Art. 1–19) und der sogenannten grundrechtsgleichen Rechte (Art. 20 Abs. 4, Art. 33, Art. 38, Art. 101, Art. 103 und Art. 104) sowie dem umfangreichen Komplex des Staatsorganisationsrechts.
+
+Die Unterteilung erfolgt in Artikeln statt Paragrafen.
+
+Es handelt sich hier um eine Bundesverfassung, neben ihr existieren Länderverfassungen. Die Länder besitzen eine eigene Staatsqualität und haben trotz der Zugehörigkeit zum Bund teilweise beachtliche Zuständigkeiten, etwa im Polizei- und Ordnungsrecht, im Bildungswesen und im Kommunalrecht.
+
+Grundrechte
+→ Hauptartikel: Grundrechte (Deutschland)
+Das Grundgesetz legt im Abschnitt „Grundrechte“ (Art. 1 bis Art. 19) Rechte fest, die jeder Mensch (Menschenrechte oder Jedermannsrechte, auch Jedermann-Grundrechte) und speziell jeder Staatsbürger (auch Bürgerrechte oder Deutschenrechte, auch Deutschen-Grundrechte) gegenüber den Trägern der Hoheitsgewalt hat. Auch inländische „juristische Personen“ (im weiteren Sinne, das heißt (teil-)rechtsfähige Personenmehrheiten) sind Träger von Grundrechten, soweit diese ihrem Wesen nach auf sie anwendbar sind (Art. 19 Abs. 3). Die Grundrechte sind im Prinzip als Abwehrrechte des Grundrechtsträgers gegenüber Eingriffen von Hoheitsträgern ausgestaltet. Sie erzeugen jedoch auch eine (in aller Regel mittelbare) Drittwirkung im Privatrecht. Grundrechte gewähren unter Umständen auch einen Anspruch auf Leistung des Staates, entweder durch Teilhabe an bestehenden staatlichen Vorkehrungen (Teilhaberechte, derivative Leistungsrechte, Verfahrensrechte) oder sogar durch Schaffung neuer staatlicher Vorkehrungen (originäre Leistungsrechte).
+
+Zu Art. 1 Abs. 1 GG gehört etwa die Anerkennung eines absolut geschützten Kernbereichs privater Lebensgestaltung. Dabei handelt es sich um ein vom Bundesverfassungsgericht entwickeltes Institut, das aus der Menschenwürde abgeleitet wird und damit unverletzlich ist.[40]
+
+Die Grundrechte kann der betroffene Bürger über die Individualverfassungsbeschwerde einklagen (Art. 94 Abs. 1 Nr. 4a).
+
+Grundrechtsähnlich ist auch die kommunale Selbstverwaltung ausgestaltet (Art. 28 Abs. 2). Die Kommunen können dieses Recht über die Kommunalverfassungsbeschwerde geltend machen (Art. 94 Abs. 1 Nr. 4b).
+
+Staatsorganisationsrecht
+Grundsätze
+Das Staatsorganisationsrecht gliedert sich seinerseits in die Aufzählung allgemeiner Grundsätze (Art. 20 bis Art. 29, Art. 34), in die Regelungen über das Verhältnis zwischen Bund und Ländern (Art. 30 bis Art. 32, Art. 35 bis Art. 37, Art. 70 ff., Art. 83 ff.) und in das Binnenorganisationsrecht der Bundesrepublik Deutschland (Art. 38 bis Art. 69, Art. 76 ff.). Erstere beschäftigen sich insbesondere mit der Kompetenzverteilung zwischen den beiden föderalen Ebenen (Verbandszuständigkeit); im Binnenorganisationsrecht wiederum geht es um die Schaffung, Zusammensetzung und Kompetenzen (Organzuständigkeit) der Organe des Bundes sowie um Verfahren. Art. 20 enthält die wichtigsten Staatsprinzipien: Demokratie, Republik, Sozialstaat, Bundesstaat (→ Föderalismus in Deutschland) sowie Rechtsstaat. Sie gelten gem. der Homogenitätsklausel des Art. 28 Abs. 1 auch in den Ländern. Einzelne staatsorganisationsrechtliche Bestimmungen finden sich darüber hinaus im Abschnitt „Grundrechte“ und die grundrechtsgleichen Rechte finden sich im staatsorganisatorischen Teil.
+
+Art. 79 Abs. 3 enthält die sogenannte Ewigkeitsklausel. Die in Artikel 1 (Menschenwürde) und Artikel 20 festgelegten Grundsätze, d. h. der Menschenwürdekern der Grundrechte und der Kern der Staatsstrukturpinzipien, dürfen durch die verfassungsändernde Gewalt nicht berührt werden (Art. 79 Abs. 3 Var. 3).
+
+Kompetenzen der Bundesorgane
+Die folgenden Abschnitte legen die Kompetenzen der einzelnen Staatsorgane des Bundes untereinander fest. Als Verfassungsorgane des Bundes sind der Deutsche Bundestag, der Bundesrat, der Gemeinsame Ausschuss, der Bundespräsident, die Bundesversammlung, die Bundesregierung, der Vermittlungsausschuss und das Bundesverfassungsgericht aufgeführt.
+
+→ Hauptartikel: Gesetzgebungsverfahren
+
+Politisches System in der Bundesrepublik
+Bundestag und Bundesrat sind zur Gesetzgebung des Bundes berufen. Der Bundesrat ist dabei kein Organ der Länder, sondern ein Organ des Bundes, in dem Vertreter der Regierungen der Länder sitzen. Die Vertreter der Länder müssen dabei die Stimmen einheitlich abgeben. Bundesgesetze werden durch den Bundestag beschlossen und dem Bundesrat unverzüglich zugeleitet. Für das weitere Verfahren unterscheidet man zwischen Einspruchsgesetzen und Zustimmungsgesetzen. Bei Einspruchsgesetzen kann der Bundesrat binnen drei Wochen die Einberufung des Vermittlungsausschusses verlangen, der aus nicht weisungsgebundenen Mitgliedern von Bundestag und Bundesrat besteht. Schlägt der Vermittlungsausschuss eine Änderung vor, so hat der Bundestag erneut Beschluss zu fassen. Stimmt der Bundesrat dem Gesetz zu oder unterlässt er es, fristgerecht einen Antrag auf Einberufung des Vermittlungsausschusses zu stellen, so kommt das Gesetz zustande. Ist das Vermittlungsverfahren beendet und hat der Bundestag im Falle der Änderung des Gesetzesbeschlusses durch den Vermittlungsausschuss erneut Beschluss gefasst, so kann der Bundesrat binnen zwei Wochen Einspruch einlegen. Wird der Einspruch fristgerecht durch den Bundesrat eingelegt, kann der Bundestag den Einspruch zurückweisen. Verzichtet der Bundesrat auf einen Einspruch oder nimmt er ihn zurück, so ist das Gesetz zustande gekommen. Bei Zustimmungsgesetzen läuft das Verfahren abweichend. Zustimmungsgesetze existieren vor allem bei Bestimmungen des Bundes über die Errichtung von Landesbehörden und das Verwaltungsverfahren beim Vollzug von Bundesgesetzen als eigene Angelegenheiten der Länder; bei Bundesgesetzen, an welchen die Länder ein Viertel der Ausgaben oder mehr zu tragen haben; bei Bundesgesetzen über Steuern, deren Aufkommen zum Teil den Ländern oder den Kommunen zufließt. Stimmt der Bundesrat mit der Mehrheit seiner Stimmen dem Gesetz zu, so ist es zustande gekommen. Anderenfalls kann der Bundesrat den Vermittlungsausschuss einberufen. Bei Zustimmungsgesetzen können auch die Bundesregierung und der Bundestag die Einberufung des Vermittlungsausschusses verlangen. Macht der Vermittlungsausschuss einen Vorschlag zur Änderung des Gesetzesbeschlusses, so hat der Bundestag erneut Beschluss zu fassen. Diesen Beschluss kann der Bundesrat dann verweigern oder ihm stattgeben. Wird der Vermittlungsausschuss nicht einberufen oder macht dieser keinen Vorschlag zur Änderung des Gesetzesbeschlusses, so hat der Bundesrat in angemessener Frist über das Gesetz abzustimmen.
+
+Der Bundesregierung obliegt gemeinsam mit dem Bundestag die Staatsleitung sowie ferner die Ausführung von bestimmten Bundesgesetzen durch Bundesbehörden. Der Bundespräsident ist das Staatsoberhaupt. Er nimmt im Wesentlichen Repräsentationsaufgaben wahr. Inwieweit dem Bundespräsidenten bei der Ausfertigung von Bundesgesetzen eine Prüfungskompetenz zukommt, ist umstritten. Häufig wird davon ausgegangen, dass er die Richtigkeit des Zustandekommens von Gesetzen zu prüfen hat (formale Prüfungskompetenz).
+
+In seinem Geltungsbereich steht das Grundgesetz im Rang über allen Gesetzen und anderen nationalen Rechtsquellen. Über seine Einhaltung und Auslegung wacht das Bundesverfassungsgericht. Die Verfassungsrichter entscheiden v. a. über Streitigkeiten zwischen Bundesorganen, über Streitigkeiten zwischen Ländern und dem Bund. Es prüft die Vereinbarkeit von Landesrecht und Bundesrecht, sowohl in einem konkreten Gerichtsverfahren wie auch abstrakt auf Antrag von Bundestag, Bundesregierung oder einer Landesregierung. Es entscheidet über Verfassungsbeschwerden von Bürgern und Gesellschaften sowie über Beschwerden von Kommunen betreffend die Verletzung ihres kommunalen Selbstverwaltungsrechts.
+
+Der Gemeinsame Ausschuss ist das Gesetzgebungsorgan des Bundes im Verteidigungsfall.
+
+Verbandszuständigkeit des Bundes
+Die Verbandszuständigkeit im Grundgesetz folgt einem Prinzip ähnlich dem europarechtlichen Prinzip der begrenzten Einzelermächtigung (Art. 4 Abs. 1, Art. 5 Abs. 1, 2 EUV): Grundsätzlich sind die Länder für die Gesetzgebung, Verwaltung und Rechtsprechung zuständig, soweit das Grundgesetz die Zuständigkeit nicht dem Bund gegeben hat. Im Zweifel sind staatliche Aufgaben daher ihnen zugewiesen.
+
+Die Zuständigkeit des Bundes ist auf den Gebieten der Gesetzgebung, des Gesetzesvollzugs und der Rechtsprechung recht unterschiedlich ausgestaltet. Im Bereich der ausschließlichen Gesetzgebung des Bundes haben die Länder die Befugnis zur Gesetzgebung nur, soweit sie hierzu in einem Bundesgesetz ausdrücklich ermächtigt werden (Art. 71). Art. 73 führt die Kompetenztitel auf, in denen der Bund die ausschließliche Gesetzgebungszuständigkeit hat. Art. 74 räumt dem Bund konkurrierende Gesetzgebungszuständigkeiten ein; solange und soweit der Bund von einer solchen Befugnis keinen Gebrauch macht, so können die Länder dort gesetzgebend tätig werden (Art. 72 Abs. 1).
+
+Auch beim Gesetzesvollzug ist der Bund nur auf Grund besonderer Ermächtigung zuständig (bundeseigene Verwaltung). Die Art. 87 ff. weisen dem Bund aber weit weniger Kompetenzen bei der Verwaltung zu als bei der Gesetzgebung. In der Regel vollziehen die Länder auch Bundesgesetze als eigene Angelegenheit (Art. 84). In diesem Bereich übt die Bundesregierung die Rechtsaufsicht aus über den Vollzug von Bundesgesetzen durch die Länder. In einem dritten Bereich führen die Länder die Bundesgesetze im Auftrag des Bundes aus. Hier üben die Bundesregierung (Art. 85 Abs. 4 Satz 2) und die obersten Bundesbehörden (Art. 85 Abs. 3 Satz 1) nicht nur die Rechts-, sondern auch die Fachaufsicht aus.
+
+Auch Gerichte sind grundsätzlich Ländersache. Der Bund darf nur solche Gerichte errichten, die im Grundgesetz als Bundesgerichte ausdrücklich vorgesehen sind.
+
+Wesentliche Unterschiede zur Weimarer Verfassung
+Das 1949 ratifizierte Grundgesetz war eine politische Reaktion auf die strukturellen Schwächen der Weimarer Verfassung von 1919, die es zugelassen hatten, dass mit dem Ermächtigungsgesetz und der Gleichschaltung im „Dritten Reich“ die Demokratie durch das Führerprinzip ersetzt wurde.
+
+
+Politisches System in der Weimarer Republik
+Im Gegensatz zur Weimarer Reichsverfassung sind die Grundrechte nach dem Grundgesetz keine bloßen Staatszielbestimmungen, sondern unmittelbar geltendes Recht für die der Menschenwürde verpflichteten Staatsgewalten (Art. 1). Die Grundrechte befinden sich am Anfang des Verfassungstextes und haben eine hervorgehobene Bedeutung sowohl als subjektive Bürgerrechte als auch in ihrer Funktion einer objektiven Wertentscheidung des Staatswesens. Sie dürfen in ihrem Wesensgehalt nicht angetastet werden. Der Grundsatz des Artikels 1, der diese Bindung festlegt, darf nicht verändert werden (Ewigkeitsklausel).
+
+Zur Sicherung der Demokratie kommt dem Parlament eine zentrale Rolle zu. Der Bundestag als einziges direkt demokratisch legitimiertes Verfassungsorgan übt maßgeblichen Einfluss auf die Besetzung der anderen Organe aus. Der Vorrang der Gesetzgebungsbefugnisse kommt in mehreren Verfassungsbestimmungen zum Ausdruck. So ist im Hinblick auf Weimar insbesondere die Möglichkeit einer Notverordnung ausgeschlossen. Soweit die Regierung gesetzliche Bestimmungen (Verordnungen) erlassen will, müssen Inhalt, Zweck und Ausmaß vorab in einem Parlamentsgesetz bestimmt worden sein (Art. 80). Parlamentsgesetze können nur durch eine Entscheidung des Bundesverfassungsgerichts verworfen werden (Art. 100).
+
+Das Staatsoberhaupt ist nunmehr kein „Ersatzkaiser“ mehr, sondern mit Ausnahme weniger Befugnisse (wie der Ausfertigung von Gesetzen und des damit verbundenen Prüfungsrechts oder des Begnadigungsrechts des Bundes) auf die Repräsentation beschränkt. Im Gegensatz zum Reichspräsidenten ist der Bundespräsident bei Ernennung des Regierungschefs und Auflösung des Bundestags auf entsprechende Parlamentsmehrheiten angewiesen. Die Stellung der Regierung gegenüber dem Staatsoberhaupt wurde gestärkt. Die Bundesregierung ist nur noch vom Bundestag, statt, wie die Reichsregierung nach Weimarer Verfassung, sowohl vom Reichspräsidenten als auch vom Reichstag abhängig. Die Bundesregierung kann nur durch ein konstruktives Misstrauensvotum, also die Wahl eines neuen Kanzlers, gestürzt werden. Dies sorgt für mehr Stabilität als „in Weimar“, wo sich Rechts- und Linksradikale zur Abwahl eines Kanzlers zusammenschließen konnten, ohne sich auf einen gemeinsamen Kandidaten zu einigen. In der Weimarer Republik war es außerdem möglich, einzelnen Ministern das Vertrauen zu entziehen.
+
+Die Entscheidungen des Bundesverfassungsgerichts haben in einigen Fällen Gesetzeskraft (§ 31 Abs. 2 BVerfGG). In der Praxis werden Urteile allerdings eher derart formuliert, dass die jeweils zuständigen Organe bis zu einem mehr oder weniger exakt bemessenen Zeitraum beanstandete Teile eines Gesetzes gemäß dem gefällten Urteil zu ändern haben. Ein Gericht mit derartiger Machtfülle sah die Weimarer Verfassung nicht vor. Die Änderung des Grundgesetzes, geregelt in Art. 79, ist nur unter engeren Voraussetzungen möglich, als sie für Änderungen der Reichsverfassung galten. Bei einer Änderung des Grundgesetzes muss explizit der geänderte Artikel angegeben werden. Die Weimarer Verfassung konnte auch implizit mit jedem Gesetz, das eine Zweidrittelmehrheit erreichte, geändert werden. Nach Artikel 79 Abs. 3 dürfen die Grundsätze aus Artikel 1 und Artikel 20 sowie Elemente der Bundesstaatlichkeit nicht abgeschafft werden (zwar können Bundesländer zusammengelegt werden, deren generelle Abschaffung ist aber nicht möglich). Nach der in Artikel 20 festgeschriebenen Gewaltenteilung ist zum Beispiel ein „Ermächtigungsgesetz“ wie das von 1933, womit die grundrechtlichen Garantien der Verfassung abgeschafft wurden, nicht möglich.
+
+Parteien sind nunmehr durch das Parteienprivileg in Art. 21 geschützt und können dadurch nur durch eine Entscheidung des Bundesverfassungsgerichts verboten werden. Das Grundgesetz weist ihnen die Aufgabe bei der politischen Willensbildung des Volkes zu, verlangt aber, dass ihre innere Ordnung demokratischen Grundsätzen entspricht.
+
+Durch den Bundesrat sind die Bundesländer im Vergleich zum Reichsrat angesichts des großen Bereichs zustimmungspflichtiger Gesetze sehr stark an der Gesetzgebung beteiligt. Der Reichsrat verfügte nur über ein suspensives Vetorecht in Gesetzesfragen. Diese Beteiligung des Bundesrates unterliegt im Rahmen der Föderalismusdiskussion mittlerweile vielfacher Kritik.
+
+Die Verfassung von Weimar trug dazu bei, dass die Reichswehr ein „Staat im Staate“ wurde, auch, weil sie dem Reichspräsidenten, nicht aber parlamentarischer Kontrolle unterstellt war. Das Grundgesetz unterstellt die Bundeswehr im Friedensfall dem Verteidigungsminister, im Verteidigungsfall dem Bundeskanzler.
+
+Plebiszitäre Elemente (wie Volksbegehren und Volksentscheide), die das Volk wie in der Weimarer Republik berechtigen, Gesetze einzubringen und zu verabschieden, sind im Grundgesetz auf Bundesebene so nicht vorhanden. Ausschließlich bei einer Neugliederung des Bundesgebietes sowie im Falle der Annahme einer Verfassung entscheidet das Volk unmittelbar. Der Parlamentarische Rat verzichtete auf eine weitergehende Ausgestaltung und schottete sich ab, da die Befürchtung bestand, in der noch jungen und ungefestigten Demokratie könnte der „kommunistische Generalgegner“ (KPD und SED) diese Instrumente für sich nutzen. Zudem bestand ein generelles, paternalistisches Misstrauen gegenüber der Mitbestimmungsfähigkeit des Volkes.[41] Nicht zuletzt hatten die bayerischen Mitglieder ein Interesse daran, den künftigen Bundesstaat nicht zu stärken.[42] Der Ausbau direktdemokratischer Elemente zu einem späteren Zeitpunkt wurde allerdings nie ausgeschlossen, sondern lediglich von keiner der später folgenden Bundesregierungen vollzogen.
+
+Entwicklung des Grundgesetzes seit 1949
+
+Grundgesetz. Herausgegeben von der Bundeszentrale für politische Bildung
+Überblick
+
+Wiedergabe auf einer Postkarte 1974: 25 Jahre Grundgesetz
+Als im Jahr 1949 der Parlamentarische Rat das Grundgesetz für die Bundesrepublik Deutschland verabschiedete, wurde mit dem Namen „Grundgesetz“ vor allem der vorübergehende Charakter des Verfassungstextes deutlich gemacht. Das Grundgesetz sollte als Provisorium solange gelten, bis die Teilung Deutschlands ein Ende fände. Anschließend sollte es durch eine Verfassung ersetzt werden, die sich die Bürger Deutschlands in freier Selbstbestimmung geben würden. Dieser Sprachgebrauch impliziert in der Staatspraxis jedoch keineswegs einen provisorischen Charakter, wie das Beispiel anderer Verfassungen, etwa im skandinavischen Raum oder für die Niederlande, zeigt. Dass vom Grundgesetz „für“, nicht dem Grundgesetz „der“ Bundesrepublik Deutschland die Rede ist, entspricht ebenfalls üblicher Begriffsverwendung.[43]
+
+In den 40 Jahren Verfassungspraxis der Bundesrepublik erwies sich das Grundgesetz als ein Erfolgsmodell, so dass das Bedürfnis einer Neukonstituierung des wiedervereinigten Deutschlands bei Weitem nicht das Verlangen nach Kontinuität übersteigen konnte oder eine von dem deutschen Volk in freier Entscheidung beschlossene Verfassung nicht erwünscht wird. Das Grundgesetz blieb, abgesehen von einigen geringfügigen Änderungen, in der bewährten Form erhalten. Durch den Einigungsvertrag wurde das Grundgesetz etwa in der Präambel oder Artikel 146 verändert.[44]
+
+Das Grundgesetz ist seit der Ausfertigung am 23. Mai 1949 rund 60 Mal geändert worden.[45][46] 1949 bestand es aus der Präambel und 146 Artikeln. Durch Aufhebung von Artikeln (Bsp.: Art. 74a und 75), aber auch Einfügen neuer (Bsp.: Art. 53a, Art. 91d, Art. 120a GG, …) waren es 2010 schon 191 Artikel. Zu einer Neubekanntmachung ist es nicht gekommen, sodass die ursprüngliche Zählung beibehalten ist und das Grundgesetz immer noch mit Art. 146 endet. Art. 45d ist der erste und bislang einzige Artikel mit amtlicher Überschrift („Parlamentarisches Kontrollgremium“).
+
+Wesentliche Änderungen erfuhr das Grundgesetz durch die Wiedereinführung der Wehrpflicht und Schaffung der Bundeswehr 1956, mit der auch die sogenannte Wehrverfassung implementiert wurde.[47] Eine weitere große Reform war die 1968 von der damaligen Großen Koalition aus CDU/CSU und SPD verabschiedete sogenannte Notstandsverfassung (insbesondere Art. 115a bis Art. 115l), die politisch sehr umstritten war. 1969 erfolgte ebenfalls noch eine Reform der Finanzverfassung (Art. 104a bis Art. 115).
+
+
+Wiedergabe auf einer Briefmarke 1999: 50 Jahre Grundgesetz
+Reformbestrebungen fanden nach der deutschen Wiedervereinigung mit marginalen Änderungen im Jahre 1994 einen – zum Teil als enttäuschend empfundenen – Abschluss (sogenannte Verfassungsreform 1994). Soweit sich jedoch die Parteien einig wurden, sollte an dem bewährten Grundgesetz so weit wie möglich festgehalten werden. Eine Volksabstimmung über das für ganz Deutschland geltende (und nicht mehr provisorische)[48] Grundgesetz wurde mehrheitlich abgelehnt, obwohl dies mit dem Argument einer stärkeren Verankerung des Grundgesetzes vor allem in Ostdeutschland gefordert wurde. Auch erfolgte nicht die immer wieder geforderte Aufnahme von plebiszitären Elementen wie der Volksgesetzgebung, die in mittlerweile allen Landesverfassungen vorgesehen ist.
+
+Eine Föderalismuskommission des Bundes und der Länder, die 2004 über einen neuen Zuschnitt der Gesetzgebungszuständigkeiten und der Zustimmungsbefugnisse des Bundesrates verhandelte, scheiterte an Differenzen in der Bildungspolitik. Nach der Bildung der Großen Koalition traten die modifizierten Vorschläge zu einer Föderalismusreform in die parlamentarische Beratung ein.
+
+Weitere Änderungen:
+
+1992 wurde die Mitgliedschaft in der Europäischen Union neu gefasst (Art. 23 GG).
+1994 (und 2002) wurden Umwelt- und Tierschutz als Staatszielbestimmungen in Art. 20a GG aufgenommen.
+Politisch am stärksten umstritten waren 1993 die Einschränkung des Grundrechts auf Asyl[49][50] sowie 1998 die Einschränkung der Unverletzlichkeit der Wohnung mit dem sogenannten großen Lauschangriff (Art. 13 Abs. 3 bis Abs. 6 GG, 2004 vom BVerfG als verfassungsgemäß bestätigt).
+2006 wurde die Föderalismusreform mit zahlreichen Änderungen der Gesetzgebungskompetenz verabschiedet.
+Im Zuge der Wirtschaftskrise 2009 und der Föderalismusreform II wurde die Entflechtung in der Finanzverfassung weiter vorangetrieben.
+Änderungsgesetze
+Die Verfassung der Bundesrepublik Deutschland kann nur durch Gesetze geändert werden, die den besonderen Anforderungen des Art. 79 GG genügen; verfassungsändernde Gesetze sind somit stets Zustimmungsgesetze.[51] Nach Art. 79 Abs. 2 GG ist eine qualifizierte Mehrheit von zwei Dritteln der Mitglieder des Bundestages und zwei Dritteln der Stimmen des Bundesrats erforderlich. Das hohe Quorum erschwert Verfassungsänderungen erheblich, indem schwache oder zufällige Mehrheiten nicht wirksam beschließen können. Bestimmte Verfassungsgrundsätze und Strukturprinzipien wie die unmittelbare Bindungswirkung der Grundrechte, die föderale Gliederung oder die demokratische Herrschaftsform sind nach Art. 79 Abs. 3 GG von einer Änderung ausdrücklich ausgenommen. Das Grundgesetz gilt als eine der am häufigsten geänderten Verfassungen der Welt.[52]
+
+Nr.	Änderndes Gesetz	Erlassen am	Bundes­gesetz­blatt	Geänderte Artikel	Art der Änderung
+1	Strafrechtsänderungsgesetz	30. August 1951	BGBl. I S. 739, 747	143	aufgehoben
+2	Gesetz zur Einfügung eines Artikels 120a in das Grundgesetz	14. August 1952	BGBl. I S. 445	120a	eingefügt
+3	Gesetz zur Änderung des Art. 107 des Grundgesetzes	20. April 1953	BGBl. I S. 130	107	geändert
+4	Gesetz zur Ergänzung des Grundgesetzes	26. März 1954	BGBl. I S. 45	73, 79	geändert
+142a	eingefügt
+5	Zweites Gesetz zur Änderung des Art. 107 des Grundgesetzes	25. Dezember 1954	BGBl. I S. 517	107	geändert
+6	Gesetz zur Änderung und Ergänzung der Finanzverfassung (Finanzverfassungsgesetz)	23. Dezember 1955	BGBl. I S. 817	106, 107	geändert
+7	Gesetz zur Ergänzung des Grundgesetzes	19. März 1956	BGBl. I S. 111	1, 12, 36, 49, 60, 96, 137	geändert
+17a, 45a, 45b, 59a, 65a, 87a, 87b, 96a, 143	eingefügt
+8	Gesetz zur Änderung und Ergänzung des Artikels 106 des Grundgesetzes	24. Dezember 1956	BGBl. I S. 1077	106	geändert
+9	Gesetz zur Einfügung eines Artikels 135a in das Grundgesetz	22. Oktober 1957	BGBl. I S. 1745	135a	eingefügt
+10	Gesetz zur Ergänzung des Grundgesetzes	23. Dezember 1959	BGBl. I S. 813	74	geändert
+87c	eingefügt
+11	Gesetz zur Einfügung eines Artikels über die Luftverkehrsverwaltung in das Grundgesetz (11. Änderung des Grundgesetzes)	6. Februar 1961	BGBl. I S. 65	87d	eingefügt
+12	Zwölftes Gesetz zur Änderung des Grundgesetzes	6. März 1961	BGBl. I S. 141	96a	geändert
+96	geändert
+13	Dreizehntes Gesetz zur Änderung des Grundgesetzes	16. Juni 1965	BGBl. I S. 513	74	geändert
+14	Vierzehntes Gesetz zur Änderung des Grundgesetzes	30. Juli 1965	BGBl. I S. 649	120	geändert
+15	Fünfzehntes Gesetz zur Änderung des Grundgesetzes	8. Juni 1967	BGBl. I S. 581	109	geändert
+16	Sechzehntes Gesetz zur Änderung des Grundgesetzes	18. Juni 1968	BGBl. I S. 657	92, 95, 96a, 99, 100; 96a wird 96	geändert
+96 a.F.	aufgehoben
+17	Siebzehntes Gesetz zur Ergänzung des Grundgesetzes	24. Juni 1968	BGBl. I S. 709	9 Abs. 3, 10, 11 Abs. 2, 12, 19, 20, 35, 73, 87a, 91	geändert
+12a, 53a, 80a, 115a–l	eingefügt
+59a, 65a Abs. 2, 142a, 143	aufgehoben
+18	Achtzehntes Gesetz zur Änderung des Grundgesetzes (Artikel 76 und 77)	15. November 1968	BGBl. I S. 1177	76, 77	geändert
+19	Neunzehntes Gesetz zur Änderung des Grundgesetzes	29. Januar 1969	BGBl. I S. 97	93, 94	geändert
+20	Zwanzigstes Gesetz zur Änderung des Grundgesetzes	12. Mai 1969	BGBl. I S. 357	109 Abs. 3, 110, 112, 113, 114, 115	geändert
+21	Einundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Finanzreformgesetz)	12. Mai 1969	BGBl. I S. 359	105, 106, 107, 108, 115c, 115k	geändert
+91a, 91b, 104a	eingefügt
+22	Zweiundzwanzigstes Gesetz zur Änderung des Grundgesetzes	12. Mai 1969	BGBl. I S. 363	74, 75, 96	geändert
+23	Dreiundzwanzigstes Gesetz zur Änderung des Grundgesetzes	17. Juli 1969	BGBl. I S. 817	76	geändert
+24	Vierundzwanzigstes Gesetz zur Änderung des Grundgesetzes	28. Juli 1969	BGBl. I S. 985	120	geändert
+25	Fünfundzwanzigstes Gesetz zur Änderung des Grundgesetzes	19. August 1969	BGBl. I S. 1241	29	geändert
+26	Sechsundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 96)	26. August 1969	BGBl. I S. 1357	96	geändert
+27	Siebenundzwanzigstes Gesetz zur Änderung des Grundgesetzes	31. Juli 1970	BGBl. I S. 1161	38, 91a	geändert
+28	Achtundzwanzigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74a GG)	18. März 1971	BGBl. I S. 206	75, 98	geändert
+74a	eingefügt
+29	Neunundzwanzigstes Gesetz zur Änderung des Grundgesetzes	18. März 1971	BGBl. I S. 207	74	geändert
+30	Dreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 GG — Umweltschutz)	12. April 1972	BGBl. I S. 593	74	geändert
+31	Einunddreißigstes Gesetz zur Änderung des Grundgesetzes	28. Juli 1972	BGBl. I S. 1305	35, 73, 74, 87	geändert
+32	Zweiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 45c)	15. Juli 1975	BGBl. I S. 1901	45c	eingefügt
+33	Dreiunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 29 und 39)	23. August 1976	BGBl. I S. 2381	29, 39, 45a	geändert
+45, 49	aufgehoben
+34	Vierunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 74 Nr. 4a)	23. August 1976	BGBl. I S. 2383	74	geändert
+35	Fünfunddreißigstes Gesetz zur Änderung des Grundgesetzes (Artikel 21 Abs. 1)	21. Dezember 1983	BGBl. I S. 1481	21	geändert
+36	Einigungsvertrag[53]	23. September 1990	BGBl. II S. 885, 890	Präambel, 51, 135a, 146	geändert
+143	eingefügt
+23	aufgehoben
+37	Gesetz zur Änderung des Grundgesetzes	14. Juli 1992	BGBl. I S. 1254	87d	geändert
+38	Gesetz zur Änderung des Grundgesetzes	21. Dezember 1992	BGBl. I S. 2086	24, 28, 50, 52, 88, 115e	geändert
+23, 45	eingefügt
+39	Gesetz zur Änderung des Grundgesetzes (Artikel 16 und 18)	28. Juni 1993	BGBl. I S. 1002	16, 18	geändert
+16a	eingefügt
+40	Gesetz zur Änderung des Grundgesetzes	20. Dezember 1993	BGBl. I S. 2089	73, 74, 80, 87	geändert
+87e, 106a, 143a	eingefügt
+41	Gesetz zur Änderung des Grundgesetzes	30. August 1994	BGBl. I S. 2245	73, 80, 87	geändert
+87f, 143b	eingefügt
+42	Gesetz zur Änderung des Grundgesetzes (Artikel 3, 20a, 28, 29, 72, 74, 75, 76, 77, 80, 87, 93, 118a und 125a)	27. Oktober 1994	BGBl. I S. 3146	3, 28, 29, 72, 74, 75, 76, 77, 80, 87, 93	geändert
+20a, 118a, 125a	eingefügt
+43	Gesetz zur Änderung des Grundgesetzes	3. November 1995	BGBl. I S. 1492	106	geändert
+44	Gesetz zur Änderung des Grundgesetzes (Artikel 28 und 106)	20. Oktober 1997	BGBl. I S. 2470	28, 106	geändert
+45	Gesetz zur Änderung des Grundgesetzes (Artikel 13)	26. März 1998	BGBl. I S. 610	13	geändert
+46	Gesetz zur Änderung des Grundgesetzes (Artikel 39)	16. Juli 1998	BGBl. I S. 1822	39	geändert
+47	Gesetz zur Änderung des Grundgesetzes (Artikel 16)	29. November 2000	BGBl. I S. 1633	16	geändert
+48	Gesetz zur Änderung des Grundgesetzes (Artikel 12a)	19. Dezember 2000	BGBl. I S. 1755	12a	geändert
+49	Gesetz zur Änderung des Grundgesetzes (Artikel 108)	26. November 2001	BGBl. I S. 3219	108	geändert
+50	Gesetz zur Änderung des Grundgesetzes (Staatsziel Tierschutz)	26. Juli 2002	BGBl. I S. 2862	20a	geändert
+51	Gesetz zur Änderung des Grundgesetzes (Artikel 96)	26. Juli 2002	BGBl. I S. 2863	96	geändert
+52	Gesetz zur Änderung des Grundgesetzes (Artikel 22, 23, 33, 52, 72, 73, 74, 74a, 75, 84, 85, 87c, 91a, 91b, 93, 98, 104a, 104b, 105, 107, 109, 125a, 125b, 125c, 143c)
+Änderungen	28. August 2006	BGBl. I S. 2034	22, 23, 33, 52, 72, 73, 74, 84, 85, 87c, 91a, 91b, 93, 98, 104a, 105, 107, 109, 125a	geändert
+104b, 125b, 125c, 143c	eingefügt
+74a, 75	aufgehoben
+53	Gesetz zur Änderung des Grundgesetzes (Artikel 23, 45 und 93)
+Änderungen	8. Oktober 2008	BGBl. I S. 1926	45, 93	geändert
+23 Abs. 1a	eingefügt
+54	Gesetz zur Änderung des Grundgesetzes (Artikel 106, 106 b, 107, 108)
+Änderungen 26. März 2009, 1. Juli 2009	19. März 2009	BGBl. I S. 606	106, 107, 108	geändert
+106b	eingefügt
+55	Gesetz zur Änderung des Grundgesetzes (Art. 45d)
+Änderungen	17. Juli 2009	BGBl. I S. 1977	45d	eingefügt
+56	Gesetz zur Änderung des Grundgesetzes (Art. 87d)
+Änderungen	29. Juli 2009	BGBl. I S. 2247	87d	geändert
+57	Gesetz zur Änderung des Grundgesetzes (Art. 91c, 91d, 104b, 109, 109a, 115, 143d)
+Änderungen	29. Juli 2009	BGBl. I S. 2248	104b, 109, 115	geändert
+91c, 91d, 109a, 143d	eingefügt
+58	Gesetz zur Änderung des Grundgesetzes (Artikel 91e)
+Änderungen	21. Juli 2010	BGBl. I S. 944	91e	eingefügt
+59	Gesetz zur Änderung des Grundgesetzes (Artikel 93)
+Änderungen	11. Juli 2012	BGBl. I S. 1478	93	geändert
+60	Gesetz zur Änderung des Grundgesetzes (Artikel 91b)
+Änderungen	23. Dezember 2014	BGBl. I S. 2438	91b	geändert
+61	Gesetz zur Änderung des Grundgesetzes (Artikel 21)
+Änderungen	13. Juli 2017	BGBl. I S. 2346	21	geändert
+62	Gesetz zur Änderung des Grundgesetzes (Artikel 90, 91c, 104b, 104c, 107, 108, 109a, 114, 125c, 143d, 143e, 143f, 143g)
+Änderungen	13. Juli 2017	BGBl. I S. 2347	90, 91c, 104b, 107, 108, 109a, 114, 125c, 143d	geändert
+104c, 143e, 143f, 143g	eingefügt
+63	Gesetz zur Änderung des Grundgesetzes (Artikel 104b, 104c, 104d, 125c, 143e)
+Änderungen	28. März 2019	BGBl. I S. 404	104b, 104c, 125c, 143e	geändert
+104d	eingefügt
+64	Gesetz zur Änderung des Grundgesetzes (Artikel 72, 105 und 125b)
+Änderungen	15. November 2019	BGBl. I S. 1546	72, 105 und 125b	geändert
+65	Gesetz zur Änderung des Grundgesetzes (Artikel 104a und 143h)
+Änderungen 8. Oktober 2020, 31. Dezember 2020[54]	29. September 2020	BGBl. I S. 2048	104a	geändert
+143h	eingefügt
+143h	aufgehoben
+66	Gesetz zur Änderung des Grundgesetzes (Artikel 87a)
+Änderungen	28. Juni 2022	BGBl. I S. 968	87a	geändert
+67	Gesetz zur Änderung des Grundgesetzes (Artikel 82)
+Änderungen	19. Dezember 2022	BGBl. I S. 2478	82	geändert
+68	Gesetz zur Änderung des Grundgesetzes (Artikel 93 und 94)
+Änderungen	20. Dezember 2024	BGBl. I Nr. 439	93, 94	geändert
+Geltungsdauer
+Gemäß Art. 146 GG verliert das Grundgesetz seine Gültigkeit an dem Tage, an dem eine Verfassung in Kraft tritt, die vom deutschen Volk in freier Entscheidung beschlossen wurde. Einen Aufruf, eine derartige Verfassung zu beschließen, enthält das Grundgesetz jedoch nicht.
+
+Der ursprüngliche Text der Präambel wies dem Grundgesetz bis 1990 als Aufgabe zu, „dem staatlichen Leben für eine Übergangszeit eine neue Ordnung zu geben“. Die Präambel alter Fassung wurde abgeschlossen mit dem Satz „Das gesamte Deutsche Volk bleibt aufgefordert, in freier Selbstbestimmung die Einheit und Freiheit Deutschlands zu vollenden.“[55] In der Umformulierung infolge des Einigungsvertrages von 1990 wurde nun vereinfacht und ohne Einschränkungen festgestellt, dass „sich das Deutsche Volk kraft seiner verfassungsgebenden Gewalt[56] dieses Grundgesetz gegeben“ habe. „Die Deutschen in den Ländern [Aufzählung der Bundesländer] haben in freier Selbstbestimmung die Einheit und Freiheit Deutschlands vollendet. Damit gilt dieses Grundgesetz für das gesamte Deutsche Volk.“[55] In Artikel 146 wurde durch den Einigungsvertrag hinter den Worten „Dieses Grundgesetz“ der Nebensatz „das nach Vollendung der Einheit und Freiheit Deutschlands für das gesamte deutsche Volk gilt“ eingefügt, um klarzustellen, dass der Artikel auch nach Herstellung der deutschen Einheit weitergelte.
+
+Nach herrschender Literaturmeinung soll das Grundgesetz nur aus gewichtigen Gründen von einer neuen Verfassung abgelöst werden, nämlich entweder aufgrund einer „fundamentalen Staatskrise“ oder aufgrund der „Herausforderungen der europäischen Integration“.[57]
+
+Wie der Weg zu einer neuen Verfassung aussehen soll, definiert das Grundgesetz nicht. So ist z. B. nicht geregelt, wer einen Verfassungsentwurf ausarbeitet oder wer letztendlich darüber entscheidet. Die Verabschiedung könnte sowohl durch eine Volksabstimmung als auch in einer vom Volk gewählten verfassungsgebenden Versammlung erfolgen.[58]
+
+Die Textpassagen dieses Grundgesetz-Artikels werden gelegentlich dahingehend interpretiert, nur eine direkt – also plebiszitär – beschlossene Verfassung erfülle das staatsrechtliche Programm des Grundgesetzes und der provisorische Zustand sei weiterhin gegeben. Mehrheitlich wird in der Staats- und Rechtswissenschaft darin jedoch kein demokratisches Defizit gesehen, denn das Prinzip der repräsentativen Demokratie, das hier letztlich zur Anwendung kommt, sei qualitativ und demokratietheoretisch nicht mangelhaft, sondern eine graduelle und systematische Grundentscheidung. Auch habe das Grundgesetz in seiner alten Fassung von einer freien Entscheidung des Volkes gesprochen – als Kontrast zur politischen Unfreiheit der Deutschen in der DDR –, nie jedoch von einer direkten Entscheidung. Daher seien besondere plebiszitäre Anforderungen hieraus nicht herleitbar. Das deutsche Volk habe durch den verfassungsändernden Gesetzgeber der Jahre 1990–1994 stets frei und kontinuierlich gesprochen; es „hat im Grundgesetz eine gültige, würdige und respektierte Verfassung gefunden, unter der es ein freies, freiheitliches, demokratisches Leben in einem sozialen und föderativen Rechtsstaat führen kann“.[59] Vielmehr schließe der belassene Artikel 146 eine Verfassungsreform mit Aufhebung des Grundgesetzes zwar nicht aus, er verlange sie aber auch nicht.[60]
+
+Es ist nur scheinbar ein Widerspruch, dass diese gesamtdeutsche Verfassung weiterhin die Bezeichnung „Grundgesetz“ trägt. Das Grundgesetz erfüllt nicht nur alle Funktionen einer Verfassung und hat sich bereits im Laufe der Geschichte der Bundesrepublik als solche gefestigt, sondern wird auch den Legitimitätsanforderungen an eine Verfassung gerecht. Die Beibehaltung des ursprünglichen Namens Grundgesetz für die Bundesrepublik Deutschland ist historisch bedingt und lässt sich auch als Respekt vor der Arbeit des Parlamentarischen Rates deuten. Gegenwärtig lautet daher die Feststellung zur Verfassungsgesetzgebung vereinfacht: Das Grundgesetz ist die Verfassung.[61]
+
+Räumlicher Geltungsbereich
+Nach der Wiederherstellung der deutschen Einheit wurde das Grundgesetz geändert:
+
+In der Präambel heißt es nunmehr, das Grundgesetz gelte für das gesamte deutsche Volk, womit das Wiedervereinigungsgebot förmlich aufgehoben wurde.
+Der bisherige Art. 23 (a.F.) ist entfallen, der den Geltungsbereich des Grundgesetzes für „andere Teile Deutschlands“ offen hielt.[62]
+Art. 146 stellt klar, dass die Einheit Deutschlands vollendet ist.
+Somit ergibt sich, dass mit Deutschland in den heutigen Grenzen der Geltungsbereich des Grundgesetzes endgültig festgelegt ist und Gebietsansprüche der Bundesrepublik nicht bestehen.[4]
+
+Bedeutung und Kritik
+Das Grundgesetz gilt als Beispiel für die erfolgreiche Re-Demokratisierung eines Landes. Dies trifft insbesondere auf die Einrichtung des Bundesverfassungsgerichts zu, das mit seiner Rechtsprechung die Verfassungsinterpretation und -wirklichkeit entscheidend geprägt hat. Das Bundesverfassungsgericht mit seinen weitreichenden Befugnissen war beispiellos, die zentrale Bedeutung des Grundsatzes der Menschenwürde wurde vielfach in andere Verfassungen exportiert.[63]
+
+Häufig wird jedoch darauf hingewiesen, dass die Entwicklung einer stabilen Demokratie in Deutschland weniger auf die konkrete Konzeption des Grundgesetzes als vielmehr auf die wirtschaftliche Prosperität der Nachkriegszeit zurückgeht. Dem wird indes entgegengehalten, dass sich die Wirtschaftskraft (West-)Deutschlands ohne stabile rechtliche und politische Bedingungen nicht hätte entwickeln können. Hierzu zählt insbesondere der soziale Frieden, der durch das Sozialstaatsgebot und die verfassungsrechtliche Verankerung von Gewerkschaften und Arbeitgeberverbänden (Art. 9 Abs. 3) erreicht wurde.
+
+Kaum bestritten wird, dass sich die auf Gewaltenverschränkung und -kontrolle angelegte staatsorganisationsrechtliche Struktur des Grundgesetzes bisher bewährt hat. Häufig wird allerdings im Föderalismus, das heißt in den Blockademöglichkeiten des Bundesrates, ein Hindernis für die Umsetzung wichtiger Reformvorhaben gesehen. Das Grundgesetz führe so de facto zu einer Konsensdemokratie.
